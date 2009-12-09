@@ -2,7 +2,7 @@
 %define plugin	azupdater
 
 Name:		vuze-plugin-%plugin
-Version:	1.8.8
+Version:	1.8.10
 Release:	%mkrel 1
 Summary:	Vuze plugin: Automatic updates for external plugins
 Group:		Networking/File transfer

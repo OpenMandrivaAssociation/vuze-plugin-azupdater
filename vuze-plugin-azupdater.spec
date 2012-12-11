@@ -53,3 +53,18 @@ rm -rf %{buildroot}
 %dir %{_datadir}/azureus/plugins/%plugin
 %{_datadir}/azureus/plugins/%plugin/%{plugin}_%{version}.jar
 %{_datadir}/azureus/plugins/%plugin/plugin.properties
+
+
+%changelog
+* Wed Dec 08 2010 Oden Eriksson <oeriksson@mandriva.com> 1.8.10-2mdv2011.0
++ Revision: 615415
+- the mass rebuild of 2010.1 packages
+
+* Wed Dec 09 2009 Anssi Hannula <anssi@mandriva.org> 1.8.10-1mdv2010.1
++ Revision: 475275
+- new version 1.8.10
+
+* Sun Sep 20 2009 Anssi Hannula <anssi@mandriva.org> 1.8.8-1mdv2010.0
++ Revision: 445729
+- initial Mandriva release
+

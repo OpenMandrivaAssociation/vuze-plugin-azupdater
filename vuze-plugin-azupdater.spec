@@ -3,7 +3,7 @@
 
 Name:		vuze-plugin-%plugin
 Version:	1.8.10
-Release:	%mkrel 2
+Release:	3
 Summary:	Vuze plugin: Automatic updates for external plugins
 Group:		Networking/File transfer
 License:	GPLv2+

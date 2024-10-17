@@ -7,7 +7,7 @@ Release:	3
 Summary:	Vuze plugin: Automatic updates for external plugins
 Group:		Networking/File transfer
 License:	GPLv2+
-URL:		http://azureus.sourceforge.net/
+URL:		https://azureus.sourceforge.net/
 Source0:	http://azureus.sourceforge.net/plugins/%{plugin}_%{version}.zip
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	vuze
